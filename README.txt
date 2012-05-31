@@ -1,4 +1,4 @@
-SimpleSynch as a simple program to produce self-absorbed synchrotron spectrum.
+SimpleSynch is a simple program to produce self-absorbed synchrotron spectrum.
 The parameters are set in param.py which is imported.
 
 To run the code:
